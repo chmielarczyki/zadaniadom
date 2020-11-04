@@ -1,0 +1,16 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+#dodaj {
+    background-color: aqua;
+}
+
+#usun {
+    background-color: palevioletred;
+}
+
+p {
+    font-size: 22px;
+}
