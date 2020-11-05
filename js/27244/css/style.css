@@ -1,0 +1,16 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+form {
+    background-color: bisque;
+}
+
+#container {
+    background-color: cornflowerblue;
+}
+
+button {
+    background-color: cyan;
+}
