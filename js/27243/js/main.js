@@ -1,7 +1,7 @@
-let tabl = [44, 66, 3, 6, 92];
+let tablica = [44, 66, 3, 6, 92];
 
-function myFunction() {
-    console.log(tabl[0]);
+function myFunction(tab) {
+    console.log(tab[0]);
 }
 
-myFunction(tabl);
+myFunction(tablica);
